@@ -1,21 +1,21 @@
 objectid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation,birthdate,deathdate
-psychiana001,,,Dominic J. Alessi,text,,Northwest Public Broadcasting,,21 Aug 1914 – 20 Jul 1990,,youtube video,Religion; Frank B. Robinson,,42.644959,-75.781339,,,,,,,,https://rightsstatements.org/vocab/InC-EDU/1.0/,Audio,eng,,,
-psychiana002,,,Mildred Y. Alessi,audio/mp3,,The Izzard Company,,1913 – 1985,yes,radio program,God-Law; Life Spirit; Mircales; Healing; Sudent Letters; Testimonials,,,,,,,,,,,https://rightsstatements.org/vocab/InC-EDU/1.0/,Sound,eng,,1900,2000
-psychiana003,,,Adeline Preston Allen,audio/mp3,,,,21 Apr 1841 – 23 Mar 1907,yes,radio program,"Spirit of God, God-Power;  Cosmic Rays; Science and Technology; Student Letters; Hardship; Material Abundance; Testimonials",,,,,,,,,,,https://rightsstatements.org/vocab/InC-EDU/1.0/,Sound,eng,,1901,2001
-,,,Aden Sidney Allen,,,,,1877 – 15 Aug 1937,,,,,,,,,,,,,,,,,,1902,2002
-,,,Alfred Allen,,,,,unknown – 7 Apr 1886,,,,,,,,,,,,,,,,,,1903,2003
-,,,Alice L Wheeler Allen,,,,,1857 – 3 Nov 1926,,,,,,,,,,,,,,,,,,1904,2004
-,,,Alice R Allen,,,,,unknown – 1864,,,,,,,,,,,,,,,,,,1905,2005
-,,,Alva B. Allen,,,,,16 Apr 1828 – 3 Dec 1915,,,,,,,,,,,,,,,,,,1906,2006
-,,,Ariel Allen Jr.,,,,,1814 – 21 May 1844,,,,,,,,,,,,,,,,,,1907,2007
-,,,Ariel Allen Sr.,,,,,1782 – 26 Feb 1855,,,,,,,,,,,,,,,,,,1908,2008
-,,,Bertha E. Allen,,,,,1898 – 1971,,,,,,,,,,,,,,,,,,1909,2009
-,,,Charlotte Allen,,,,,unknown – 20 Oct 1852,,,,,,,,,,,,,,,,,,1910,2010
-,,,Daughter Allen,,,,,unknown – 20 Jun 1834,,,,,,,,,,,,,,,,,,1911,2011
-,,,Dell Forest Allen,,,,,1851 – 1938,,,,,,,,,,,,,,,,,,1912,2012
-,,,Edward Eugene Allen,,,,,1 Sep 1958 – 14 Sep 2014,,,,,,,,,,,,,,,,,,1913,2013
-,,,Eliza Stanton Allen,,,,,4 Oct 1814 – 9 May 1891,,,,,,,,,,,,,,,,,,1914,2014
-,,,Eugene Allen,,,,,19 Jun 1925 – 12 Mar 2001,,,,,,,,,,,,,,,,,,1915,2015
-,,,Fanny Bundy Allen,,,,,14 Sep 1790 – 15 Jan 1858,,,,,,,,,,,,,,,,,,1916,2016
-,,,Flora B. Allen,,,,,1863 – 1890,,,,,,,,,,,,,,,,,,1917,2017
-,,,George C Allen,,,,,1888 – 20 Jan 1959,,,,,,,,,,,,,,,,,,,
+psychiana001,,,Dominic J. Alessi,text,,Northwest Public Broadcasting,,21 Aug 1914 – 20 Jul 1990,,,,,42.644959,-75.781339,,,,,,,,,Text,eng,,,
+psychiana002,,,Mildred Y. Alessi,audio/mp3,,The Izzard Company,,1913 – 1985,yes,,,,42.644959,-75.781339,,,,,,,,,Text,eng,,1900,2000
+psychiana003,,,Adeline Preston Allen,audio/mp3,,,,21 Apr 1841 – 23 Mar 1907,yes,,,,42.644959,-75.781339,,,,,,,,,Text,eng,,1901,2001
+,,,Aden Sidney Allen,,,,,1877 – 15 Aug 1937,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1902,2002
+,,,Alfred Allen,,,,,unknown – 7 Apr 1886,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1903,2003
+,,,Alice L Wheeler Allen,,,,,1857 – 3 Nov 1926,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1904,2004
+,,,Alice R Allen,,,,,unknown – 1864,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1905,2005
+,,,Alva B. Allen,,,,,16 Apr 1828 – 3 Dec 1915,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1906,2006
+,,,Ariel Allen Jr.,,,,,1814 – 21 May 1844,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1907,2007
+,,,Ariel Allen Sr.,,,,,1782 – 26 Feb 1855,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1908,2008
+,,,Bertha E. Allen,,,,,1898 – 1971,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1909,2009
+,,,Charlotte Allen,,,,,unknown – 20 Oct 1852,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1910,2010
+,,,Daughter Allen,,,,,unknown – 20 Jun 1834,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1911,2011
+,,,Dell Forest Allen,,,,,1851 – 1938,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1912,2012
+,,,Edward Eugene Allen,,,,,1 Sep 1958 – 14 Sep 2014,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1913,2013
+,,,Eliza Stanton Allen,,,,,4 Oct 1814 – 9 May 1891,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1914,2014
+,,,Eugene Allen,,,,,19 Jun 1925 – 12 Mar 2001,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1915,2015
+,,,Fanny Bundy Allen,,,,,14 Sep 1790 – 15 Jan 1858,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1916,2016
+,,,Flora B. Allen,,,,,1863 – 1890,,,,,42.644959,-75.781339,,,,,,,,,Text,,,1917,2017
+,,,George C Allen,,,,,1888 – 20 Jan 1959,,,,,42.644959,-75.781339,,,,,,,,,,,,,
