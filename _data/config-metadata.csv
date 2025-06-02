@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-title,Title,
+title,Name,
 creator,Creator,
 date,Date Created,
 description,Description,
@@ -13,3 +13,5 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+birthdate,Birth
+deathdate,Death
